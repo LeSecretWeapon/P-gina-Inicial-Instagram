@@ -1,3 +1,3 @@
-### Página Inicial do Instagram
+### Página Login do Instagram
 
-Recriação da página inicial do Instagram com **HTML** e **CSS** para fins de prática. :smiley:	
+Recriação da página de Login do Instagram com **HTML** e **CSS** para fins de prática. :smiley:	
